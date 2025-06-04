@@ -1,4 +1,30 @@
-Trade-All - Plateforme d'échange d'électronique en ligne Trade-All est une plateforme en ligne dédiée à l'échange, à l'achat et à la vente de produits électroniques. L'objectif principal est de créer un espace sécurisé et convivial où les utilisateurs peuvent facilement trouver ou proposer des appareils électroniques.
+# Trade-All
+
+**Trade-All** est une plateforme en ligne dédiée à l’échange, à l’achat et à la vente de produits électroniques.  
+Elle permet aux utilisateurs de publier des annonces, de rechercher des articles, et d’effectuer des transactions en toute sécurité.
+
+---
+
+## 🚀 Technologies utilisées
+
+| Côté           | Technologie       |
+|----------------|-------------------|
+| Frontend       | Angular 17.1.0    |
+| Backend        | Spring Boot       |
+| Base de données| MySQL             |
+
+---
+
+## 🧩 Fonctionnalités principales
+
+- 🛒 **Catalogue de produits** : Parcourez une large sélection d’articles électroniques.
+- 🔍 **Recherche avancée** : Filtrage par catégorie, prix et état.
+- 🔐 **Authentification** : Enregistrement, connexion et déconnexion des utilisateurs.
+- 👤 **Espace utilisateur** : Gestion des annonces et suivi des échanges.
+
+---
+
+## 📂 Structure du projet
 
 Fonctionnalités principales : Catalogue de produits : Parcourez une large sélection d'articles électroniques. Recherche avancée : Trouvez rapidement les produits en fonction de vos critères (catégorie, prix, état). Échange sécurisé : Système d'échange avec suivi et notifications en temps réel. Gestion des utilisateurs : Créez un compte, gérez vos annonces et suivez vos transactions. Technologies utilisées : Frontend : Angular pour une interface utilisateur dynamique et réactive. Backend : Spring Boot pour une architecture robuste et performante. Base de données : MySQL pour la gestion des données. Trade-All simplifie les transactions électroniques en ligne tout en mettant l'accent sur la transparence et la sécurité.
 
