@@ -52,8 +52,8 @@ Run `ng e2e` to execute end-to-end tests. You need to add a package for end-to-e
 
 **Further help**  
 Use `ng help` or visit the Angular CLI [documentation](https://angular.io/cli) for more information.
+---
 ![Screenshot 2024-05-01 235035](https://github.com/user-attachments/assets/2ced8540-a287-4511-b370-1b328005f1d5)
-
 ---
 ![Screenshot 2024-05-01 235106](https://github.com/user-attachments/assets/9ac34d8c-df3e-4aa1-a677-cb4c90908051)
 ---
