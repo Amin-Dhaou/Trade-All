@@ -47,14 +47,6 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 **Further help**  
 Use `ng help` or visit the Angular CLI [documentation](https://angular.io/cli) for more information.
----
-![Screenshot 2024-05-01 235035](https://github.com/user-attachments/assets/2ced8540-a287-4511-b370-1b328005f1d5)
----
-![Screenshot 2024-05-01 235106](https://github.com/user-attachments/assets/9ac34d8c-df3e-4aa1-a677-cb4c90908051)
----
-![Screenshot 2024-05-01 235147](https://github.com/user-attachments/assets/bf6f3503-462d-4460-8263-e7d542eaaa9e)
-
----
 
 ## Spring Boot Backend
 
@@ -72,14 +64,6 @@ Run `java -jar target/your-project.jar` to start the application from the JAR.
 
 **Run tests**  
 Run `./mvnw test` to execute unit tests.
-
----
-![Screenshot 2024-05-01 234900](https://github.com/user-attachments/assets/f08acd96-b6e9-43a0-83e5-ece56091d676)
----
-![Screenshot 2024-05-01 234959](https://github.com/user-attachments/assets/c4710ba3-b6ea-4ceb-b277-e8ab7c7a27e6)
----
-![Screenshot 2024-05-01 234929](https://github.com/user-attachments/assets/b528a49a-b634-45c6-b5ca-fce425cfaea2)
----
 
 **MySQL Configuration** (in `application.properties`):
 ```properties
